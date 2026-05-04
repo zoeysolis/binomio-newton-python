@@ -1,4 +1,4 @@
-Binomio-newton-python
+# Binomio-newton-python
 Desarrollo paso a paso de binomios de Newton (a + b)^n usando combinatoria y lógica algorítmica
 
 Desarrollo de Binomios de Newton 
